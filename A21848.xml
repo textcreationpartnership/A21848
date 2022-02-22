@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes Maiestie being giuen to vnderstand, that diuers souldiers vpon the dissoluing of the campe at Tilberie in the countie of Essex  ...</title>
+            <title>Proclamations. 1588-08-25</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1588</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21848</idno>
+            <idno type="STC">STC 8174</idno>
+            <idno type="STC">ESTC S115396</idno>
+            <idno type="EEBO-CITATION">99850615</idno>
+            <idno type="PROQUEST">99850615</idno>
+            <idno type="VID">15827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes Maiestie being giuen to vnderstand, that diuers souldiers vpon the dissoluing of the campe at Tilberie in the countie of Essex  ...</title>
+                  <title>Proclamations. 1588-08-25</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1588]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Forbidding soldiers to sell their arms--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>Weapons --  England --  Early works to 1800.</term>
+               <term>Armor --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15827:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>he Queenes Maieſtie being giuen to vnderſtand, that diuers Souldiers vpon the diſſoluing of the Campe at Tilberie in the countie of Eſſex, haue in their way homeward ſolde diuers their Armors and weapons, which haue bene deliuered vnto them by the Officers of thoſe Counties where they haue bene leuied and ſet out: and beſides the ſale of their ſaid Armour and weapons, haue moſt falſely and ſlaunderouſly giuen out, that they were compelled to make ſale of them for that they receiued no pay, which is moſt vntruely reported. For remedie where<g ref="char:EOLhyphen"/>of, her Highneſſe doth ſtraightly charge and commaund all her good and louing Subiects, not onely to forbeare hereafter to bye any ſuch Armors and weapons as ſhall be offred vnto them to be ſolde by any of the ſaid Souldiers: but alſo immediatly vpon any ſuch offer, to take and apprehend the ſaid Souldier, and to deliuer him or them into the hands of the next Conſtable, charging him by vertue of this Proclamation in her Maieſties name, to carrie him to the next Gaole, and ſhall ſee him committed, there to remaine without bayle or mainepriſe, vntill there ſhall be ſome generall order taken for the puniſhment of the ſaide parties. And further her Maieſties pleaſure is, that ſuch of her Subiects as haue ſince the diſſoluing of the ſaid Campe, bought any of the ſaid Armour &amp; weapons before the publiſhing of this preſent Proclamation, ſhall within two dayes after the publiſhing thereof, preſent vnto the Maior, or any other chiefe Officer of that Citie, Towne, or place where the ſaid Armour hath bene bought, the ſaide Armour and weapons ſo by them bought: and ſhall by their corporall othe declare vnto the ſayde Maior, or chiefe Officer, what ſumme or ſummes of money they haue paide for the ſaide Armour and weapons, and of whome the ſame was bought, or of what band the partie was that ſolde the ſame, to the ende there may ſome order be taken for the re<g ref="char:EOLhyphen"/>ſtitution of ſuch ſummes of money as haue bene by them diſburſed. And in caſe any of her Maieſties Subiects ſhall be by any meanes detected and proued to haue tranſgreſſed againſt the true meaning of this her Highneſſe Proclamation, either in not confeſſing &amp; bringing in to the Officers aforeſaid ſuch Armors as they haue bought in maner aforeſaid, or in buying hereafter any the ſaid Armors to be offered as aforeſaide vnto them: or in not ap<g ref="char:EOLhyphen"/>prehending any the foreſaid Souldiers offring the ſale of their Armors: her Highneſſe meaning is (beſides her heauie diſpleaſure to be therefore ſuſteined) that euery ſuch tranſgreſſor ſhall ſuffer for his offence, not only im<g ref="char:EOLhyphen"/>priſonment, but ſuch further puniſhment in body or by ſine, as by her Maieſties priuie Counſell ſhall be thought meete. The one moitie of the ſaid fine to be to the vſe of the detecter of the ſaid Offender, and the other moitie to be imployed in prouiſion of corne poulder, to the publique benefite of the Countie where the ſayde Detecter ſhall dwell. And to the ende this Proclamation may take the better effect, her Highneſſe pleaſure and commaunde<g ref="char:EOLhyphen"/>ment is, that all Iuſtices of peace, and other inferiour Miniſters in their ſeuerall diuiſions of their Counties, make all diligent enquirie of all offences and Offenders againſt the true meaning of this preſent Proclamation.</p>
+            <closer>
+               <dateline>Giuen at he Maieſties Manour of Saint Iames, <date>the fiue and twentieth day of Auguſt. 1588. In the thirti<g ref="char:EOLhyphen"/>eth yeere of her Maieſties reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of Chriſtopher Barker, Printer to the Queenes moſt excellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
